@@ -26,7 +26,7 @@ https://albert.apple.com/deviceservices/activity/phoneNumberSimNotification,albe
 https://gsp10-ssl.apple.com/hcy/pbcwloc,gsp10-ssl.apple.com,original paper,
 api-glb-dub.smoot.apple.com,api-glb-dub.smoot.apple.com,original paper,
 android.googleapis.com/checkin,android.googleapis.com,original paper,
-www.google.com/complete/search,www.google.com,original paper,
+www.google.com/complete/search,www.google.com,original paper,google
 ssl.google-analytics.com/batch,ssl.google-analytics.com,original paper,
 android.clients.google.com,android.clients.google.com,original paper,
 youtubei.googleapis.com/youtubei/v1/account,youtubei.googleapis.com,original paper,
@@ -41,8 +41,8 @@ mobilenetworkscoring-pa.googleapis.com/v1/GetWifiQuality,mobilenetworkscoring-pa
 https://android.clients.google.com/fdfe/uploadDynamicConfig,android.clients.google.com,original paper,
 idiagnostics.apple.com,idiagnostics.apple.com,original paper,
 xp.apple.com,xp.apple.com,original paper,
-cf.iadsdk.apple.com/adserver/2.6/config,cf.iadsdk.apple.com,original paper,
-iadsdk.apple.com/adserver/2.6/optout/optout_optin,iadsdk.apple.com,original paper,
+cf.iadsdk.apple.com/adserver/2.6/config,cf.iadsdk.apple.com,original paper,iAD SDK
+iadsdk.apple.com/adserver/2.6/optout/optout_optin,iadsdk.apple.com,original paper,iAD SDK
 bag.itunes.apple.com,bag.itunes.apple.com,original paper,
 gspe35-ssl.ls.apple.com/geo_manifest/dynamic/config,gspe35-ssl.ls.apple.com,original paper,
 gsp-ssl.ls.apple.com/ab.arpc,gsp-ssl.ls.apple.com,original paper,

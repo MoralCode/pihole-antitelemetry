@@ -1,55 +1,34 @@
 ## Domains/URLS From the main article
-
 sa.apple.com/grandslam
-https://gsa.apple.com/grandslam/MidService/
-startMachineProvisioning
+https://gsa.apple.com/grandslam/MidService/startMachineProvisioning
 https://lcdn-locator.apple.com/lcdn/locate
-Headers
 https://humb.apple.com/humbug/baa
-https://smp-device-content.apple.com/static/region/v2/
-config.json
--  urlsmp-device-
-content.apple.com/static/region/v2/config.json
-xp.apple.com/report/2/psr ota.
-
-https://app-measurement.com/config/app/...
+https://smp-device-content.apple.com/static/region/v2/config.json
+xp.apple.com/report/2/psr_ota
+https://app-measurement.com/config/app/
 www.googleapis.com/androidantiabuse
-
 www.gstatic.com
 app-measurement.com
 youtubei.googleapis.com/deviceregistration
 android.clients.google.com/checkin
 clients.google.com/checkin
-
-
 fonts.gstatic.com
 play.googleapis.com
 play.googleapis.com/log/batch
 play.googleapis.com/play/log
 www.googleapis.com/experimentsandconfigs
 android.clients.google.com/checkin
-
 https://gsas.apple.com/grandslam/GsService2/postdata
 gsp85-ssl.ls.apple.com
 https://gsp57-ssl-locus.ls.apple.com/dispatcher.arpc
 xp.apple.com
-
 https://albert.apple.com/deviceservices/activity/phoneNumberSimNotification
-
 https://gsp10-ssl.apple.com/hcy/pbcwloc
-
-
 api-glb-dub.smoot.apple.com
-
 android.googleapis.com/checkin
-
-
 www.google.com/complete/search
-
 ssl.google-analytics.com/batch
 android.clients.google.com
-
-
 youtubei.googleapis.com/youtubei/v1/account
 youtubei.googleapis.com/youtubei/v1/log_event
 www.googleadservices.com
@@ -57,40 +36,23 @@ i.ytimg.com/generate_204
 youtubei.googleapis.com/generate_204
 safebrowsing.googleapis.com
 pdate.googleapis.com
-growth-pa.googleapis.com/google.internal.identity.
-growth.v1.GrowthApiService/GetPromos - device details - no unique identifiers
- mobilenetworkscoring-pa.
-googleapis.com/v1/GetWifiQuality
-https://android.clients.google.com/fdfe/
-uploadDynamicConfig
-
+growth-pa.googleapis.com/google.internal.identity.growth.v1.GrowthApiService/GetPromos - device details - no unique identifiers
+mobilenetworkscoring-pa.googleapis.com/v1/GetWifiQuality
+https://android.clients.google.com/fdfe/uploadDynamicConfig
 idiagnostics.apple.com
-
 xp.apple.com
-
-
 cf.iadsdk.apple.com/adserver/2.6/config
-
- iadsdk.apple.com/adserver/2.6/optout/optout optin
-
+iadsdk.apple.com/adserver/2.6/optout/optout_optin
 bag.itunes.apple.com
-
-
- gspe35-ssl.ls.apple.com/geo manifest/dynamic/config
+gspe35-ssl.ls.apple.com/geo_manifest/dynamic/config
 gsp-ssl.ls.apple.com/ab.arpc
-
 gsp64-ssl.ls.apple.com/hvr/v3/use
-
- static.gc.apple.com
+static.gc.apple.com
 profile.gc.apple.com
- init.gc.apple.com
-
- firebaseinstallations.googleapis.com
+init.gc.apple.com
+firebaseinstallations.googleapis.com
 android.clients.google.com
-
- pagead2.googlesyndication.com
-
-
+pagead2.googlesyndication.com
 
 
 ## Domains/URLS From the additional info document 

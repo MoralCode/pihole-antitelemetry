@@ -18,6 +18,10 @@ Domains that are known to break user-facing services or apps are moved to `telem
 
 These lists are maintained with help from the community. Any efforts to help sort domains into the correct blocklists will help others better block non-consensual telemetry.
 
+## Frequently Asked Questions
+
+There is now an [FAQ](FAQ.md) document with answers to commonquestions that have been asked about this project.
+
 ## Existing lists
 - [NextDNS apple list](https://github.com/nextdns/metadata/blob/master/privacy/native/apple)
 - [mischosts apple telemetry list](https://github.com/llacb47/mischosts/blob/master/apple-telemetry)

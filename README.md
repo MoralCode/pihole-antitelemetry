@@ -7,6 +7,8 @@ The goal of these blocklists is to to provide an easy blocklist for the domains 
 
 This is a community curated list that focusses fairly narrowly on domains from the linked paper (or similar sources) that are used by large tech companies to collect telemetry from our devices while they are idle. The intention is to create a list that maintainers of existing lists (see below) can study or integrate into their own lists or otherwise use to help the community.
 
+These lists are mainly focussed on Apple and Google because they were the subjects of the paper.
+
 ## The lists
 For a list of domains that should not break anything, use `telemetry-domains.txt`.
 

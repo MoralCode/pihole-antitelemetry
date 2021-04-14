@@ -22,3 +22,6 @@ These lists are maintained with help from the community. Any efforts to help sor
 - [NextDNS apple list](https://github.com/nextdns/metadata/blob/master/privacy/native/apple)
 - [mischosts apple telemetry list](https://github.com/llacb47/mischosts/blob/master/apple-telemetry)
 - https://decloudus.com/
+- https://filterlists.com/
+- https://github.com/crazy-max/WindowsSpyBlocker
+- 

@@ -5,17 +5,17 @@ Answers to questions that are frequently asked
 
 ## Why was this list created?
 
-When the paper investigating apple and google's data collection practices was popular on reddit, there did not seem to be an easy blocklist to easily add those domains to a pihole filter. This is that easy list.
+When the paper investigating apple and google's data collection practices was popular on reddit, there did not seem to be a blocklist to easily add those non-consensual, while-idle tracking domains to a pihole filter. This is that easy list.
 
-This project is mainly intended to help the community integrate domains from these sources into either personal blocklists withn pihole or community-maintained lists that cover more broad topics.
+This project is mainly intended to provide the community of pihole users and blocklist creators with a place to collaborate and contribute their findings about these domains so that everyone can better understand their purpose and if they can easily be blocked.
 
+It is not my intention to create or maintain a separate list or spend tons of time constantly testing domains in depth to see if they break anything. 
 
+Forks and pull requests are absolutely welcome if you would like to contribute
 
 ## Why hasnt there been any updates to the list for X weeks/months/years?
 
-This is mainly a curiosity project that arose from reading about Apple and Google's data collection in a paper (linked in README) and wanting to block this kind of non-consensual idle tracking. This project is mainly intended to help the community integrate domains from the  paper into either personal or other community blocklists. it is not my intention to create or maintain a separate list or spend tons of time constantly testing domains in depth to see if they break anything. 
-
-Forks and pull requests are absolutely welcome if you would like to contribute
+See [Why was this list created?](#why-was-this-list-created)
 
 
 ## Why wont you add domains from [other large tech company]?

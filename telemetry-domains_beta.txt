@@ -1,3 +1,8 @@
+#
+# This list was generated automatically
+# Please refer to the UPDATING.md file for instructions on how to make changes to these blocklists
+# Any edits directly to this file will be overwritten
+#
 albert.apple.com
 app-measurement.com
 app−measurement.com

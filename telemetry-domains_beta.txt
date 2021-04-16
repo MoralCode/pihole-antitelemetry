@@ -11,12 +11,13 @@ idiagnostics.apple.com
 init.gc.apple.com
 iphone−ld.apple.com
 mobilenetworkscoring-pa.googleapis.com
+mobilenetworkscoring−pa.googleapis.com
 pagead2.googlesyndication.com
 pdate.googleapis.com
 profile.gc.apple.com
+proﬁle.gc.apple.com
 sa.apple.com
 smp-device-content.apple.com
-smp−device−content.apple.com
 ssl.google-analytics.com
 ssl.google−analytics.com
 static.gc.apple.com

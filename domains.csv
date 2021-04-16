@@ -31,7 +31,7 @@ order,full_url,raw_domain,id,domain_src,purpose_src,company,list,purpose,used_wh
 30,android.clients.google.com,android.clients.google.com,5,original paper,,Google,,,,,
 31,youtubei.googleapis.com/youtubei/v1/account,youtubei.googleapis.com,155,original paper,original paper,Google,,youtube content,,,
 32,youtubei.googleapis.com/youtubei/v1/log_event,youtubei.googleapis.com,155,original paper,original paper,Google,,youtube content,,,
-33,www.googleadservices.com,www.googleadservices.com,149,original paper,original paper,Google,,google ads,,,
+33,www.googleadservices.com,www.googleadservices.com,149,original paper,original paper,Google,beta,google ads,,,
 34,i.ytimg.com/generate_204,i.ytimg.com,74,original paper,original paper,Google,,youtube images,,,
 35,youtubei.googleapis.com/generate_204,youtubei.googleapis.com,155,original paper,original paper,Google,,youtube content,,,
 36,safebrowsing.googleapis.com,safebrowsing.googleapis.com,127,original paper,,Google,,,,,

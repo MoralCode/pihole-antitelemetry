@@ -43,3 +43,9 @@ This list is likely not like other blocklists you are used to since it is hand c
 ## I know of a blocklist that people may be interested in, can I add it to the README?
 
 Sure, feel free to submit a pull request and I will review it. However Keep in mind that the goal of this project is to contribute to the community effort of building good domain block lists, not to become another service for listing the best blocklists.
+
+
+
+## How do I update these lists?
+
+Details on how to update the lists are documented in the `UPDATING.md` file

@@ -1,4 +1,4 @@
-order,Url from document,domain only,id,Domain source,Purpose source,Apple or Google,list,Domain Purpose/use,When is the domain used,received unique identifiers?,other received information
+order,full_url,raw_domain,id,domain_src,purpose_src,company,list,purpose,used_when,is_sent_identifiers,other_info_sent
 1,sa.apple.com/grandslam,sa.apple.com,126,original paper,,Apple,beta,,Upon first startup,"UDID,  X-Mme-Device-Id, hardware serial number",
 2,https://gsa.apple.com/grandslam/MidService/startMachineProvisioning,gsa.apple.com,57,original paper,https://apple.stackexchange.com/a/240148,Apple,,Likely apple authorization,,,
 3,https://lcdn-locator.apple.com/lcdn/locate,lcdn-locator.apple.com,92,original paper,original paper,Apple,,CDN locator,startup/setup process,,handset local IP address

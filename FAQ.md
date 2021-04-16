@@ -29,7 +29,7 @@ The intention for this list is not for me to create an entirely independent bloc
 Blocking is currently split into three lists as outlined in the README. These lists are for:
 - domains that are confirmed not to cause any issues with any other services (the main list)
 - domains that have not been tested enough (beta list)
-- domains that definitely break something not related to idle telemetry (borked list)
+- domains that definitely or will very likely break something not related to idle telemetry (borked list)
  
 This was done so that users could chose what tradeoffs they want to make on the privacy vs convenience scale by choosing to add more than one of the above lists to combine the domains on them. 
 
@@ -38,7 +38,7 @@ As this is mainly a curiosity project, I dont have time to test every domain in 
 
 ## Why are there only a few domains in the list?
 
-This list is likely not like other blocklists you are used to since it is hand curated for the specific purpose pof making domains from the paper (linked in the README) available for inclusion in pihole lists. It takes time to organize all the domains, figure out what they are for, place them on the appropriate list, and test to make sure they dont break things.
+This list is likely not like other blocklists you are used to since it is hand curated for the specific purpose of making domains from the paper (linked in the README) available for inclusion in pihole lists and enabling community discussion. It takes time to organize all the domains, figure out what they are for, place them on the appropriate list, and test to make sure they dont break things.
 
 ## I know of a blocklist that people may be interested in, can I add it to the README?
 

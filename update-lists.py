@@ -57,24 +57,18 @@ def output_list(list_name):
 			writer.writerow(line)
 		for domain in the_list:
 			writer.writerow([domain])
-	
-	
-	
-		
+
+
+def regenerate_list(list_name):
+	print("updating " + list_name + " list")
+	dedup_list(list_name)
+	output_list(list_name)
 
 
 populate_lists()
+regenerate_list("beta")
+regenerate_list("main")
+regenerate_list("borked")
 
-print("updating beta list")
-dedup_list("beta")
-output_list("beta")
-
-print("updating main list")
-dedup_list("main")
-output_list("main")
-
-print("updating borked list")
-dedup_list("borked")
-output_list("borked")
 
 print("Done.")

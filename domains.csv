@@ -2,9 +2,9 @@ order,full_url,raw_domain,id,domain_src,purpose_src,company,list,purpose,used_wh
 1,sa.apple.com/grandslam,sa.apple.com,126,original paper,,Apple,beta,,Upon first startup,"UDID,  X-Mme-Device-Id, hardware serial number",
 2,https://gsa.apple.com/grandslam/MidService/startMachineProvisioning,gsa.apple.com,57,original paper,https://apple.stackexchange.com/a/240148,Apple,borked,Likely apple authorization,,,
 3,https://lcdn-locator.apple.com/lcdn/locate,lcdn-locator.apple.com,92,original paper,original paper,Apple,borked,CDN locator,startup/setup process,,handset local IP address
-4,https://humb.apple.com/humbug/baa,humb.apple.com,73,original paper,original paper,Apple,beta,com.apple.bluetoothd ,,handset hardware serial number and UniqueChipID,
+4,https://humb.apple.com/humbug/baa,humb.apple.com,73,original paper,original paper,Apple,borked,"com.apple.bluetoothd ",iOS 14.5 pairing apple watch to unlock Face ID phone when wearing a mask,handset hardware serial number and UniqueChipID,
 5,https://smp-device-content.apple.com/static/region/v2/config.json,smp-device-content.apple.com,134,original paper,,Apple,beta,,,,
-6,xp.apple.com/report/2/psr_ota,xp.apple.com,154,original paper,original paper,Apple,beta,telemetry,when “dont share” is selected during startup/setup,,
+6,xp.apple.com/report/2/psr_ota,xp.apple.com,154,original paper,original paper,Apple,borked,"telemetry, iOS beta version update checks","when “dont share” is selected during startup/setup, blocking prevents updating iOS to non-public beta versions (perhaps even public versions)",,
 7,https://app-measurement.com/config/app/,app-measurement.com,15,original paper,https://stackoverflow.com/questions/54461349/how-to-decrypt-firebase-requests-to-app-measurement-com/54463682#54463690,Google,beta,google firebase analytics,,,
 8,www.googleapis.com/androidantiabuse,www.googleapis.com,150,original paper,original paper,Google,borked,google APIs,,,
 9,www.gstatic.com,www.gstatic.com,152,original paper,original paper,Google,borked,google static content,,,

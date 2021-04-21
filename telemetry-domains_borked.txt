@@ -23,6 +23,7 @@ gspe35-ssl.ls.apple.com
 gspe35−ssl.ls.apple.com
 gsp−ssl.ls.apple.com
 gstatic.com
+humb.apple.com
 i.ytimg.com
 init.itunes.apple.com
 is1−ssl.mzstatic.com
@@ -50,4 +51,5 @@ updates−http.cdn−apple.com
 www.google.com
 www.googleapis.com
 www.gstatic.com
+xp.apple.com
 youtubei.googleapis.com

@@ -10,7 +10,6 @@ bag.itunes.apple.com
 cf.iadsdk.apple.com
 growth-pa.googleapis.com
 growth−pa.googleapis.com
-humb.apple.com
 iadsdk.apple.com
 idiagnostics.apple.com
 init.gc.apple.com
@@ -27,4 +26,3 @@ ssl.google-analytics.com
 ssl.google−analytics.com
 static.gc.apple.com
 www.googleadservices.com
-xp.apple.com

@@ -1,4 +1,5 @@
 import csv
+import pathlib
 
 
 csv_filename = "domains.csv"
@@ -59,8 +60,14 @@ def output_list(list_name):
 			writer.writerow([domain])
 
 
+def delete_blocklist(list_name):
+	path = pathlib.Path(output_filenames[list_name])
+	if path.exists():
+		path.unlink()
+
 def regenerate_list(list_name):
 	print("updating " + list_name + " list")
+	delete_blocklist(list_name)
 	dedup_list(list_name)
 	output_list(list_name)
 

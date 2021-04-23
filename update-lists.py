@@ -64,11 +64,13 @@ def regenerate_list(list_name):
 	dedup_list(list_name)
 	output_list(list_name)
 
+def regenerate_all():
+	for listname in list_names:
+		regenerate_list(listname)
+
 
 populate_lists()
-regenerate_list("beta")
-regenerate_list("main")
-regenerate_list("borked")
+regenerate_all()
 
 
 print("Done.")

@@ -3,7 +3,7 @@
 
 ## Project Goals and FAQ
 
-The purpose and goals of this blocklist are outliined in the [FAQ](FAQ.md#why-was-this-list-created)
+The purpose and goals of this blocklist are outlined in the [FAQ](FAQ.md#why-was-this-list-created)
 
 ## The lists
 For a list of domains that should not break anything, use `telemetry-domains.txt`.
@@ -14,6 +14,20 @@ Domains that are known to break user-facing services or apps are moved to `telem
 
 These lists are maintained with help from the community. Any efforts to help sort domains into the correct blocklists will help others better block non-consensual telemetry.
 
+## Import blocklist
+
+On the Pi-hole admin page, go under _Group management_ > _Adlists_ > _Add a new adlist_
+
+![](imgs/adlist_menu.png)
+
+You can add a new list either by URL or by local path:
+
+- By URL: https://raw.githubusercontent.com/MoralCode/pihole-antitelemetry/main/telemetry-domains.txt
+- By local path: `file:///local/path/to/blocklist.txt`.
+
+![](imgs/adlist_form.png)
+
+> ( ! )  To apply the changes you need to run `pihole -g` or update your gravity list online: `http://<YOUR-PIHOLE_SERVER>/admin/gravity.php`
 
 ## Existing lists
 - [NextDNS apple list](https://github.com/nextdns/metadata/blob/master/privacy/native/apple)

@@ -3,24 +3,21 @@
 # Please refer to the UPDATING.md file for instructions on how to make changes to these blocklists
 # Any edits directly to this file will be overwritten
 #
+Iphone-id.apple.com
 Iphone-ld.apple.com
 albert.apple.com
 app-measurement.com
-app−measurement.com
 bag.itunes.apple.com
 cf.iadsdk.apple.com
 growth-pa.googleapis.com
-growth−pa.googleapis.com
 iadsdk.apple.com
 idiagnostics.apple.com
 init.gc.apple.com
-iphone−ld.apple.com
+iphone-ld.apple.com
 mobilenetworkscoring-pa.googleapis.com
-mobilenetworkscoring−pa.googleapis.com
 pagead2.googlesyndication.com
 pdate.googleapis.com
 profile.gc.apple.com
-proﬁle.gc.apple.com
 sa.apple.com
 smp-device-content.apple.com
 ssl.google-analytics.com

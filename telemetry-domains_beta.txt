@@ -7,7 +7,6 @@ Iphone-id.apple.com
 Iphone-ld.apple.com
 albert.apple.com
 app-measurement.com
-bag.itunes.apple.com
 cf.iadsdk.apple.com
 growth-pa.googleapis.com
 iadsdk.apple.com

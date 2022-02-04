@@ -6,6 +6,7 @@
 api-glb-dub.smoot.apple.com
 api.smoot.apple.com
 api−glb−dub.smoot.apple.com
+bag.itunes.apple.com
 caldav.icloud.com
 fonts.gstatic.com
 gsa.apple.com

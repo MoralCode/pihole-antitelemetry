@@ -42,7 +42,7 @@ order,full_url,raw_domain,id,domain_src,purpose_src,company,list,purpose,used_wh
 41,idiagnostics.apple.com,idiagnostics.apple.com,77,original paper,original paper,Apple,beta,diagnostics,Settings app is opened,hardware serial number,
 42,cf.iadsdk.apple.com/adserver/2.6/config,cf.iadsdk.apple.com,27,original paper,original paper,Apple,beta,adprivacyd process,Settings app is opened,,
 43,iadsdk.apple.com/adserver/2.6/optout/optout_optin,iadsdk.apple.com,75,original paper,original paper,Apple,beta,adprivacyd process/iAd SDK,Settings app is opened,,
-44,bag.itunes.apple.com,bag.itunes.apple.com,21,original paper,original paper,Apple,beta,adprivacyd process,Settings app is opened,,cookie
+44,bag.itunes.apple.com,bag.itunes.apple.com,21,original paper,original paper,Apple,borked,adprivacyd process,Settings app is opened,,cookie
 45,gspe35-ssl.ls.apple.com/geo_manifest/dynamic/config,gspe35-ssl.ls.apple.com,69,original paper,http://gspe21.ls.apple.com/html/attribution.html,Apple,borked, Geod process/apple maps,Settings app is opened,,
 46,gsp-ssl.ls.apple.com/ab.arpc,gsp-ssl.ls.apple.com,59,original paper,http://gspe21.ls.apple.com/html/attribution.html,Apple,borked, Geod process/apple maps,Settings app is opened,"SIM mobile carrier details, among other things",
 47,gsp64-ssl.ls.apple.com/hvr/v3/use,gsp64-ssl.ls.apple.com,65,original paper,http://gspe21.ls.apple.com/html/attribution.html,Apple,borked, Geod process/apple maps,Settings app is opened,"SIM mobile carrier details, among other things",
@@ -116,7 +116,7 @@ order,full_url,raw_domain,id,domain_src,purpose_src,company,list,purpose,used_wh
 116,https://www.gstatic.com/cryptauthvault/v0/cert.sig.xml,www.gstatic.com,152,supplementary information PDF,,Google,borked,google static content,,,
 117,https://android.clients.google.com/fdfe/deviceSettings,android.clients.google.com,5,supplementary information PDF,,Google,,,,,
 118,https://www.gstatic.com/android/snet/03152019−10002011.snet,www.gstatic.com,152,supplementary information PDF,,Google,borked,google static content,,,
-119,bag.itunes.apple.com,bag.itunes.apple.com,21,supplementary information PDF,,Apple,beta,adprivacyd process,,,
+119,bag.itunes.apple.com,bag.itunes.apple.com,21,supplementary information PDF,,Apple,borked,adprivacyd process,,,
 120,https://gsp−ssl.ls.apple.com/ab.arpc,gsp−ssl.ls.apple.com,60,supplementary information PDF,http://gspe21.ls.apple.com/html/attribution.html,Apple,borked, Geod process/apple maps,,,
 121,025com.google.android.gm,025com.google.android.gm,1,supplementary information PDF,,Google,,,,,
 122,android.gm,android.gm,6,supplementary information PDF,,Google,,,,,
@@ -384,7 +384,7 @@ order,full_url,raw_domain,id,domain_src,purpose_src,company,list,purpose,used_wh
 392,https://www.gstatic.com/webref−ondevice/aiai/20111701/2/en−us/,www.gstatic.com,152,supplementary information PDF,,Google,borked,google static content,,,
 393,"https://beacons.gvt2.com/domainreliability/upload−nel”,”user",beacons.gvt2.com,23,supplementary information PDF,,Google,,,,,
 394,https://iphone−ld.apple.com/lto/rtistatus4.dat,Iphone-ld.apple.com,84,supplementary information PDF,,Apple,beta,phone id,,,
-395,https://bag.itunes.apple.com/bag.xml?os=iOS&osVersion=13.6.1&,bag.itunes.apple.com,21,supplementary information PDF,,Apple,beta,adprivacyd process,,,
+395,https://bag.itunes.apple.com/bag.xml?os=iOS&osVersion=13.6.1&,bag.itunes.apple.com,21,supplementary information PDF,,Apple,borked,adprivacyd process,,,
 396,https://is2−ssl.mzstatic.com/image/thumb/Music30/v4/1d/6d/5c/1,is2−ssl.mzstatic.com,86,supplementary information PDF,,Apple,borked,likely static content,,,
 397,itunes.apple.com,itunes.apple.com,90,supplementary information PDF,,Apple,,,,,
 398,https://api.smoot.apple.com/bag?cc=IE&esl=en−GB&key=frigate1738&,api.smoot.apple.com,11,supplementary information PDF,https://apple.stackexchange.com/a/157495,Apple,borked,spotlight suggestions,,,

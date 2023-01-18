@@ -20,6 +20,5 @@ profile.gc.apple.com
 sa.apple.com
 smp-device-content.apple.com
 ssl.google-analytics.com
-ssl.google−analytics.com
 static.gc.apple.com
 www.googleadservices.com

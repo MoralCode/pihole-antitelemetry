@@ -22,7 +22,7 @@ order,full_url,raw_domain,id,domain_src,purpose_src,company,list,purpose,used_wh
 21,gsp85-ssl.ls.apple.com,gsp85-ssl.ls.apple.com,67,original paper,http://gspe21.ls.apple.com/html/attribution.html,Apple,borked, Geod process/apple maps,when idle,,mac addresses of nearby devices,
 22,https://gsp57-ssl-locus.ls.apple.com/dispatcher.arpc,gsp57-ssl-locus.ls.apple.com,63,original paper,http://gspe21.ls.apple.com/html/attribution.html,Apple,borked, Geod process/apple maps,when idle,,mac addresses of nearby devices,
 23,xp.apple.com,xp.apple.com,154,original paper,original paper,Apple,borked,telemetry,Settings app is opened,,,
-24,https://albert.apple.com/deviceservices/activity/phoneNumberSimNotification,albert.apple.com,4,original paper,,Apple,beta,,When SIM is inserted,SIM identifiers,,
+24,https://albert.apple.com/deviceservices/activity/phoneNumberSimNotification,albert.apple.com,4,original paper,https://youtu.be/FCSCq5rGxDI?t=370s,Apple,beta,apple activation service,When SIM is inserted,SIM identifiers,,
 25,https://gsp10-ssl.apple.com/hcy/pbcwloc,gsp10-ssl.apple.com,61,original paper,http://gspe21.ls.apple.com/html/attribution.html,Apple,borked, Geod process/apple maps,When location is enabled,"Lat, long, WIFI mac address of nearby devices",,
 26,api-glb-dub.smoot.apple.com,api-glb-dub.smoot.apple.com,9,original paper,original paper,Apple,borked,spotlight suggestions (see: https://apple.stackexchange.com/a/157495),When location is enabled,fuzzed/approximate lat/long,,
 27,android.googleapis.com/checkin,android.googleapis.com,7,original paper,,Google,,,when idle,"Carrier ID and other info, handset hardware serial number, device ID’s",,
@@ -81,7 +81,7 @@ order,full_url,raw_domain,id,domain_src,purpose_src,company,list,purpose,used_wh
 80,https://beacons.gcp.gvt2.com/domainreliability/upload−nel,beacons.gcp.gvt2.com,22,supplementary information PDF,,Google,,,,,,Borded according to issue #15
 81,https://www.google.com/m/voice−search/up?pair=54ce9385−2849−4,www.google.com,148,supplementary information PDF,,Google,borked,google search,,,,Borded according to issue #15
 82,https://www.gstatic.com/matchmaker/template,www.gstatic.com,152,supplementary information PDF,,Google,borked,google static content,,,,
-83,https://albert.apple.com/deviceservices/activity/,albert.apple.com,4,supplementary information PDF,,Apple,beta,,,,,
+83,https://albert.apple.com/deviceservices/activity/,albert.apple.com,4,supplementary information PDF,https://youtu.be/FCSCq5rGxDI?t=370s,Apple,beta,apple activation service,,,,
 84,https://www.gstatic.com/gpp−server/r2,www.gstatic.com,152,supplementary information PDF,,Google,borked,google static content,,,,
 85,https://ﬁrebaseinstallations.googleapis.com/v1/projects/android−safety/,ﬁrebaseinstallations.googleapis.com,45,supplementary information PDF,,Google,,,,,,
 86,https://sf−api−token−service.itunes.apple.com/apiToken?osVersion,sf−api−token−service.itunes.apple.com,132,supplementary information PDF,,Apple,,,,,,
@@ -310,7 +310,7 @@ order,full_url,raw_domain,id,domain_src,purpose_src,company,list,purpose,used_wh
 316,https://youtubei.googleapis.com/youtubei/v1/browse?key=AIzaSyA8,youtubei.googleapis.com,155,supplementary information PDF,,Google,borked,youtube content,,,,
 317,https://init.gc.apple.com/WebObjects/GKInit.woa/wa/getBag?ix=2,init.gc.apple.com,79,supplementary information PDF,,Apple,beta,gamed process (likely gamecenter),,,,
 318,safebrowsing.googleapis.com,safebrowsing.googleapis.com,127,supplementary information PDF,,Google,,,,,,
-319,albert.apple.com/deviceservices/activity/,albert.apple.com,4,supplementary information PDF,,Apple,beta,,,,,
+319,albert.apple.com/deviceservices/activity/,albert.apple.com,4,supplementary information PDF,https://youtu.be/FCSCq5rGxDI?t=370s,Apple,beta,apple activation service,,,,
 320,https://ﬁrebaseinstallations.googleapis.com/v1/projects/dialer−c31d5/,ﬁrebaseinstallations.googleapis.com,45,supplementary information PDF,,Google,,,,,,
 321,https://play.googleapis.com/log/batchHeadersx-server-token,play.googleapis.com,111,supplementary information PDF,,Google,borked,google play,,,,
 322,gsa.apple.com,gsa.apple.com,57,supplementary information PDF,https://apple.stackexchange.com/a/240156,Apple,borked,Likely apple authorization,,,,

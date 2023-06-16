@@ -1,7 +1,7 @@
 #
 # This list was generated automatically
 # Please refer to the UPDATING.md file for instructions on how to make changes to these blocklists
-# Any edits directly to this file will be overwritten
+# Any direct edits to this file will be overwritten
 #
 api-glb-dub.smoot.apple.com
 api.smoot.apple.com
